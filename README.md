@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonasclick
-- 👀 I’m interested in videoproduction and front end web development
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on any exciting react.js beginner friendly projects
+- 👀 I’m interested in videoproduction and try coding a bit in my free time.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on beginner friendly projects
 - 📫 How to reach me: You can find me on Linkedin: https://www.linkedin.com/in/jonas-vetsch-0166a0184/
 
 <!---

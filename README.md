@@ -1,4 +1,4 @@
-I'm fascinated by mobile app development for the iOS plattform (Swift UI) and currently working on [my iPhone app "Pilot Practice Barometer"](https://github.com/jonasclick/Trainingsbarometer) in my freetime.
+I love mobile app development for the iOS plattform (Swift UI and UIKit) and currently working on [my iPhone app "SkySoar"](https://github.com/jonasclick/Trainingsbarometer) in my freetime.
 
 
 <!---

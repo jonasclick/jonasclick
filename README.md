@@ -1,3 +1,5 @@
+Software Development Trainee 2025 to 2027.
+
 I love mobile app development for the iOS plattform (Swift UI and UIKit) and currently working on [my iPhone app "SkySoar"](https://github.com/jonasclick/Trainingsbarometer) in my freetime.
 
 

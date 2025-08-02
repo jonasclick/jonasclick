@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Jonas
-
-- Application Development Trainee @swisspost (Lernender Informatiker EFZ Applikationsentwicklung Way-Up) (2025-2027)
-
----
-
 ## 🚀 Featured Projects
 
 ### [FocusShare](https://github.com/jonasclick/focusshare)
